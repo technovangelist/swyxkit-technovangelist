@@ -117,19 +117,6 @@
 
 	{#if !search}
 		<h3 class="mt-8 mb-4 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
-			Most Popular
-		</h3>
-		<IndexCard href="/foo" title="Hardcoded Blogpost # 1" stringData="106,255 views">
-			Just a hardcorded blogpost or you can use the metadata up to you
-		</IndexCard>
-		<IndexCard href="/welcome" title="Welcome to Swyxkit" stringData="106,255 views">
-			Just a hardcorded blogpost or you can use the metadata up to you
-		</IndexCard>
-		<IndexCard href="/moo" title="Hardcoded Blogpost # 3" stringData="106,255 views">
-			Just a hardcorded blogpost or you can use the metadata up to you
-		</IndexCard>
-
-		<h3 class="mt-8 mb-4 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			All Posts
 		</h3>
 	{/if}
