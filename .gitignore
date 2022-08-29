@@ -6,6 +6,7 @@ node_modules
 /functions
 /static/tailwind.css
 /src/lib/sampledata.json
+.envrc
 
 # Local Netlify folder
 .netlify
