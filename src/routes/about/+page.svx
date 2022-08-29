@@ -1,2 +1,2 @@
-Matt is the Evangelist at InfraHQ and started the Evangelism team at Datadog. He is the MC for DevOps Days Boston and a former organizer of DevOps Days Boston and Serverless Days Boston. He is passionate about the power of kubernetes and other infrastructure tools. So he speaks and writes about all the devops things with Infra. When he's not on the road or talking on Zoom/Twitch/YouTube, he's coding. You can find Matt on Twitter at @Technovangelist.
-
+<p>Matt is the Evangelist at InfraHQ and started the Evangelism team at Datadog. He is the MC for DevOps Days Boston and a former organizer of DevOps Days Boston and Serverless Days Boston. He is passionate about the power of kubernetes and other infrastructure tools. So he speaks and writes about all the devops things with Infra. When he's not on the road or talking on Zoom/Twitch/YouTube, he's coding. You can find Matt on Twitter at @Technovangelist.
+</p>
