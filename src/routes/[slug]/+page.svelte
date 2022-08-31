@@ -13,7 +13,7 @@
 	/** @type {import('$lib/types').ContentItem} */
 	$: json = data.json; // warning: if you try to destructure content here, make sure to make it reactive, or your page content will not update when your user navigates
 
-	$: canonical = SITE_URL + $page.url.pathname;
+	$: canonical = json.canonical ? json.canonical : SITE_URL + $page.url.pathname;
 </script>
 
 <svelte:head>
