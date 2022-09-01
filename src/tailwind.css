@@ -113,3 +113,7 @@ body::-webkit-scrollbar-thumb {
 	background: linear-gradient(var(--scrollbar-primary-color), var(--text-color));
 	border-radius: 4px;
 }
+
+p {
+  margin-top: 1rem
+}

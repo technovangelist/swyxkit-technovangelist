@@ -35,24 +35,20 @@
 >
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8">
-			<h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
-				This is
+			<h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-6xl">
 
-				<span
+				<!-- <span
 					class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-red-500"
-				>
+				> -->
 					<span class="relative skew-y-3 text-yellow-400">{SITE_TITLE}</span>
-				</span>
-				!
+				<!-- </span> -->
+				
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
-				An opinionated blog starter for <span class="font-semibold"
-					>SvelteKit + Tailwind + Netlify.</span
-				> Refreshed <a href="https://github.com/sveltejs/kit/discussions/5774">the great SvelteKit redesign of Summer 2022</a>
+				<p> I am switching up the blog. A lot of the old posts aren't here yet but they will be eventually. If you must see them, check out <a href="https://github.com/technovangelist/technovangelist.com/tree/master/src/posts">the older GitHub repo</a>. </p>
+        <p>Why the need to change? I tried to post something to the old blog and Netlify failed to publish. It was an older Gatsby and I couldn't be bothered to relearn and upgrade so I just grabbed a cool looking sample of a Svelte site and went with it.</p>
 			</h2>
-			<p class="mb-16 text-gray-600 dark:text-gray-400">
-				<a href={REPO_URL}>View source here!</a>
-			</p>
+			
 		</div>
 		<!-- <div
 				class="w-[80px] h-[80px] rounded-full sm:w-[176px] sm:h-[136px] relative mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"
@@ -79,5 +75,5 @@
 			></a
 		>
 	</section>
-	<Newsletter />
+	<!-- <Newsletter /> -->
 </div>
